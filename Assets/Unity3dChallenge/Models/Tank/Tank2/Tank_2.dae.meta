@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 15154b9307f9cc24895870a0410b49ca
+timeCreated: 1439416014
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base
+    100002: Cannon
+    100004: Cog
+    100006: Cog_001
+    100008: Cog_002
+    100010: Cog_003
+    100012: Cog_004
+    100014: Cog_005
+    100016: Cog_006
+    100018: Cog_007
+    100020: Cog_008
+    100022: Cog_009
+    100024: Cog_010
+    100026: Cog_011
+    100028: Cog_012
+    100030: Cog_013
+    100032: Cog_014
+    100034: Cog_015
+    100036: //RootNode
+    100038: Turret
+    400000: Base
+    400002: Cannon
+    400004: Cog
+    400006: Cog_001
+    400008: Cog_002
+    400010: Cog_003
+    400012: Cog_004
+    400014: Cog_005
+    400016: Cog_006
+    400018: Cog_007
+    400020: Cog_008
+    400022: Cog_009
+    400024: Cog_010
+    400026: Cog_011
+    400028: Cog_012
+    400030: Cog_013
+    400032: Cog_014
+    400034: Cog_015
+    400036: //RootNode
+    400038: Turret
+    2300000: Base
+    2300002: Cannon
+    2300004: Cog
+    2300006: Cog_001
+    2300008: Cog_002
+    2300010: Cog_003
+    2300012: Cog_004
+    2300014: Cog_005
+    2300016: Cog_006
+    2300018: Cog_007
+    2300020: Cog_008
+    2300022: Cog_009
+    2300024: Cog_010
+    2300026: Cog_011
+    2300028: Cog_012
+    2300030: Cog_013
+    2300032: Cog_014
+    2300034: Cog_015
+    2300036: Turret
+    3300000: Base
+    3300002: Cannon
+    3300004: Cog
+    3300006: Cog_001
+    3300008: Cog_002
+    3300010: Cog_003
+    3300012: Cog_004
+    3300014: Cog_005
+    3300016: Cog_006
+    3300018: Cog_007
+    3300020: Cog_008
+    3300022: Cog_009
+    3300024: Cog_010
+    3300026: Cog_011
+    3300028: Cog_012
+    3300030: Cog_013
+    3300032: Cog_014
+    3300034: Cog_015
+    3300036: Turret
+    4300000: Turret
+    4300002: Cannon
+    4300004: Cog
+    4300006: Cog_001
+    4300008: Cog_002
+    4300010: Cog_003
+    4300012: Cog_004
+    4300014: Cog_005
+    4300016: Cog_006
+    4300018: Cog_007
+    4300020: Base
+    4300022: Cog_008
+    4300024: Cog_009
+    4300026: Cog_010
+    4300028: Cog_011
+    4300030: Cog_012
+    4300032: Cog_013
+    4300034: Cog_014
+    4300036: Cog_015
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
